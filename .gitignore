@@ -1,0 +1,5 @@
+.*.swp
+*.gpx
+env
+gpx
+pip-log.txt

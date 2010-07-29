@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!env/bin/python
 """
 Script to concatenate two or more GPX files.
 Author: Alexander Artemenko <svetlyak.40wt@gmail.com>
@@ -9,7 +9,8 @@ License: New BSD License
 import re
 import sys
 
-from xml.etree import cElementTree as ET
+#from xml.etree import cElementTree as ET
+from lxml import etree as ET
 
 def main(filenames):
     assert(len(filenames) > 0)
