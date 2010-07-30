@@ -4,3 +4,5 @@
 env
 gpx
 pip-log.txt
+build
+dist
