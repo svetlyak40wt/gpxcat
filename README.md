@@ -16,4 +16,4 @@ Usage
 Author
 -------
 
-Alexander Artemenko <svetlyak.40wt@gmail.com>
+Alexander Artemenko: svetlyak.40wt@gmail.com
