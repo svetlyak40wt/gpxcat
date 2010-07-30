@@ -1,4 +1,4 @@
-#!env/bin/python
+#!/usr/bin/env python
 """
 Script to concatenate two or more GPX files.
 Author: Alexander Artemenko <svetlyak.40wt@gmail.com>
