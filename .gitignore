@@ -1,5 +1,6 @@
 .*.swp
 *.gpx
+*.egg-info
 env
 gpx
 pip-log.txt
