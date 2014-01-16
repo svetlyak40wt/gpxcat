@@ -17,3 +17,7 @@ Author
 -------
 
 Alexander Artemenko: svetlyak.40wt@gmail.com
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/svetlyak40wt/gpxcat/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
